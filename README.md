@@ -52,4 +52,4 @@ tbd
 
 ## 📫 Contact
 
-This project is part of my learning journey into LLM security and responsible AI. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-profile) or open an issue.
+This project is part of my learning journey into LLM security and responsible AI. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ianydelacruz/) or open an issue.
