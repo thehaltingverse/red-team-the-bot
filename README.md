@@ -17,6 +17,7 @@ This is an early-stage prototype for red-teaming and security testing of LLMs. T
 ---
 
 ## 📂 Structure
+
 tbd
 
 ---
@@ -24,16 +25,19 @@ tbd
 ## 🚀 Getting Started
 
 **Requirements**
+
 tbd
 
 ---
 
 **Quickstart**
+
 tbd
 
 ---
 
 ## 🧪 Example Prompts
+
 tbd
 
 ---
